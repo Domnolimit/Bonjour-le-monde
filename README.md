@@ -1,2 +1,4 @@
 # Bonjour-le-monde
-Test d'un projet 
+Prototypage d'un projet opensource sur GitHub
+Version 1.00 du 17/03/2018
+
