@@ -1,5 +1,5 @@
-iving Gas Analyser.
-Version 1.00 on 03/27/2018
+Diving Gas Analyser.
+First realease 27/03/2018.
 
 Opensource gas analyser, Arduino uno based board.
 
